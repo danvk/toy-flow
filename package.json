@@ -1,0 +1,22 @@
+{
+  "name": "toy-flow",
+  "version": "1.0.0",
+  "description": "Repo for reproducing flowtype issues",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvk/toy-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvk/toy-flow/issues"
+  },
+  "homepage": "https://github.com/danvk/toy-flow#readme",
+  "devDependencies": {
+    "flow-bin": "^0.12.0"
+  }
+}
