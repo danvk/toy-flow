@@ -1,9 +1,8 @@
 /** @flow */
+
 var _ = require('underscore');
 
-function foo(): string {
-  var x = _.clone("foo");  // ok
-  return _.foo();
-}
+var o = {a: 1, b: 2, c: 3};
 
-module.exports = foo;
+var cs = _.map(o, x => x.count);
+

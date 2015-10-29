@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/danvk/toy-flow#readme",
   "devDependencies": {
-    "flow-bin": "^0.17.0"
+    "flow-bin": "^0.18.1"
   }
 }
